@@ -1,0 +1,9 @@
+POST https://bluecircle.api.bnbowners.com/usersignin/ HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+username=owen@bnbowners.com
+&password=demo123
+
+###
+
+https://new.api.bnbowners.com/listing/?continent=europe&country=ireland&includeni=1&imagedimensions=&site=bnb-booking.com
